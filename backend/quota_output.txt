@@ -1,0 +1,6 @@
+Testing Quotas for models...
+OK: models/gemini-2.5-flash: SUCCESS
+FAIL: models/gemini-2.0-flash-lite: LIMIT 0 (Blocked)
+FAIL: models/gemini-pro-latest: LIMIT 0 (Blocked)
+OK: models/gemma-3-4b-it: SUCCESS
+FAIL_QUOTA: models/gemini-flash-latest: Rate Limited / Quota Exceeded
